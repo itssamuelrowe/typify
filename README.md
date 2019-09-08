@@ -9,7 +9,8 @@ kind of work that requires typing. At first, you will save a couple of extra min
 that you won’t really notice. Over time the minutes will turn into hours of saved
 time, which you can spend on other activities.
 
-Typify is written with React and Material UI.
+Typify is written with React and Material UI. You can find the live demo powered
+by GitHub Pages [here](https://itssamuelrowe.github.io/typify-demo/]).
 
 ![Screenshot](https://github.com/itssamuelrowe/typify/raw/master/screenshot.png)
 
