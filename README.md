@@ -11,6 +11,8 @@ time, which you can spend on other activities.
 
 Typify is written with React and Material UI.
 
+![Screenshot](https://github.com/itssamuelrowe/typify/raw/master/screenshot.png)
+
 ## Words Per Minute (WPM)
 
 In this type of test, your typing skills are expressed in words per minute, hence the name.
